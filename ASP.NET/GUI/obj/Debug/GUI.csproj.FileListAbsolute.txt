@@ -1,0 +1,12 @@
+D:\EndGame\ASP.NET\GUI\bin\GUI.dll.config
+D:\EndGame\ASP.NET\GUI\bin\GUI.dll
+D:\EndGame\ASP.NET\GUI\bin\GUI.pdb
+D:\EndGame\ASP.NET\GUI\bin\BUS.dll
+D:\EndGame\ASP.NET\GUI\bin\DTO.dll
+D:\EndGame\ASP.NET\GUI\bin\DAO.dll
+D:\EndGame\ASP.NET\GUI\bin\BUS.pdb
+D:\EndGame\ASP.NET\GUI\bin\DTO.pdb
+D:\EndGame\ASP.NET\GUI\bin\DAO.pdb
+D:\EndGame\ASP.NET\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\EndGame\ASP.NET\GUI\obj\Debug\GUI.dll
+D:\EndGame\ASP.NET\GUI\obj\Debug\GUI.pdb

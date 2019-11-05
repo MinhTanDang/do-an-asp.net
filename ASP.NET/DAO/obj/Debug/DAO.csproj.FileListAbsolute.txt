@@ -1,0 +1,7 @@
+D:\EndGame\ASP.NET\DAO\bin\Debug\DAO.dll
+D:\EndGame\ASP.NET\DAO\bin\Debug\DAO.pdb
+D:\EndGame\ASP.NET\DAO\bin\Debug\DTO.dll
+D:\EndGame\ASP.NET\DAO\bin\Debug\DTO.pdb
+D:\EndGame\ASP.NET\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\EndGame\ASP.NET\DAO\obj\Debug\DAO.dll
+D:\EndGame\ASP.NET\DAO\obj\Debug\DAO.pdb

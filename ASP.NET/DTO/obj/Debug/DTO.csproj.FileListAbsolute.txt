@@ -1,0 +1,5 @@
+D:\EndGame\ASP.NET\DTO\bin\Debug\DTO.dll
+D:\EndGame\ASP.NET\DTO\bin\Debug\DTO.pdb
+D:\EndGame\ASP.NET\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\EndGame\ASP.NET\DTO\obj\Debug\DTO.dll
+D:\EndGame\ASP.NET\DTO\obj\Debug\DTO.pdb
